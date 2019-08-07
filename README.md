@@ -1,1 +1,1 @@
-本项目完成UC Berkeley, CS294-112课后作业，实现了DQN及其两个重要改进，分别是Double DQN和Dueling DQN
+本代码完成UC Berkeley, CS294-112课后作业，实现了DQN及其重要改进Double DQN，可进行Vanilla DQN和Double DQN的对比
